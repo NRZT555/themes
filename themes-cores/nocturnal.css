@@ -4067,3 +4067,22 @@ color: var(--mainColor);
 .scroller__53543 {
     background-color: transparent;
 }
+
+
+/* Inbox Sections */
+.channelHeader__5d903 {
+    background-color: var(--backgroundColor01);
+}
+.box__376cb {
+    background-color: var(--backgroundColor01);
+    border: none;
+}
+.icon__319e1 {
+    background-color: transparent;
+}
+
+
+/* Boost Server Screen */
+.parentContainer__5573a:hover .container__5573a {
+    background-color: var(--backgroundColor02);
+}

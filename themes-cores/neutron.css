@@ -3617,3 +3617,66 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
 .search__49676 {
     width: unset;
 }
+
+
+/* Inbox */
+.container__8cb2e {
+    background-color: var(--backgroundColor);
+    border: 1px solid var(--themeColor1);
+    border-radius: 5px;
+}
+.top_aa8da2 .item_aa8da2.selected_aa8da2:after, .top_aa8da2 .item_aa8da2:hover:after {
+    background-color: var(--themeColor1);
+}
+.icon__319e1 {
+    background-color: transparent;
+}
+/* Inbox Sections */ 
+.box__376cb {
+    background-color: var(--backgroundColor);
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+.channelHeader__5d903 {
+    background-color: transparent;
+    border: 2px solid var(--themeColor2);
+}
+.box__376cb:hover {
+    border: 2px solid var(--themeColor2);
+    border-radius: 5px;
+}
+
+
+/* Bost Goal Bar Channel List */
+.progressContainer__0d0f9 {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+
+/* Boost Server Screen */
+.container__89463, .contentContainer__89463, .sidebarContainer__89463, .containerCompact__6c253 {
+    background-color: transparent;
+}
+.container__5573a {
+    background-color: var(--backgroundColor);
+    border: 2px solid var(--themeColor2);
+    border-radius: 5px;
+}
+.container__5573a.active__5573a, .theme-dark .container__5573a.active__5573a {
+    background-color: var(--backgroundColor);
+    border: 2px solid var(--themeColor1);
+    border-radius: 5px;
+}
+.boostContainer__823e1 {
+    background-color: transparent;
+}
+.parentContainer__5573a:hover .container__5573a {
+    background-color: var(--backgroundColor);
+    border: 2px solid var(--themeColor2);
+    border-radius: 5px;
+}
+.parentContainer__5573a:hover .container__5573a.active__5573a {
+    background-color: var(--backgroundColor);
+    border: 2px solid var(--themeColor1);
+    border-radius: 5px;
+}
