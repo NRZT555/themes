@@ -4086,3 +4086,8 @@ color: var(--mainColor);
 .parentContainer__5573a:hover .container__5573a {
     background-color: var(--backgroundColor02);
 }
+
+/* Nitro Ending Date Pill */
+.premiumPillText__9f7e5.premiumPillTextTier2__9f7e5 {
+    color: var(--premium-tier-2-purple-for-gradients);
+}
