@@ -1232,7 +1232,7 @@
 
 #app-mount .children__9293f:after,
 #app-mount .content_f75fb0:before,
-#app-mount .divider__1de9c,
+#app-mount .divider__44f7f,
 #app-mount .form_f75fb0:before,
 #app-mount .guildSeparator-33mFX6,
 #app-mount .libraryHeader__5a895:before,
@@ -3895,7 +3895,7 @@ color: var(--mainColor);
 .radioGroupOption__64e61[data-selected]:not([data-disabled]):hover .outerRadioBase__64e61, .radioGroupOption__64e61[data-selected]:not([data-disabled]):hover .outerRadioFill__64e61{
     fill: var(--mainColor);
 }
-.anchor_edefb8{
+.anchor__14d82{
     color: var(--mainColor);
 }
 .itemIcon__971b5{
